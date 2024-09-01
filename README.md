@@ -5,11 +5,11 @@ Dependencies:
 
 1.yt-dlp
 
-pip install yt-dlp
+ -pip install yt-dlp
 
 2.youtubesearchpython
 
-pip install youtube-search-python
+ -pip install youtube-search-python
 
 3.ffmpeg
   - Download from ffmpeg.org.
