@@ -4,9 +4,11 @@ This script reads song names from a text file, searches for them on YouTube, and
 Dependencies:
 
 1.yt-dlp
+
 pip install yt-dlp
 
 2.youtubesearchpython
+
 pip install youtube-search-python
 
 3.ffmpeg
